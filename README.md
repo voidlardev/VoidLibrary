@@ -1,3 +1,3 @@
 # Void UI Library
 **Modified for Void Hub**
-__v1.0.0__
+v1.0.0
